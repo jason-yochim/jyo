@@ -1,0 +1,46 @@
+{
+    "events": [
+    {
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Find your new feline companion!",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee",
+        "img": "https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+    }, {
+        "id": 124,
+        "category": "animal welfare",
+        "title": "I love cats cause they rock nuts",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 18, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee",
+        "img": "https://plus.unsplash.com/premium_photo-1663126505098-38abdc87044b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+    }, {
+        "id": 125,
+        "category": "animal welfare",
+        "title": "Eating cats and dogs is not cool.",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee",
+        "img": "https://images.unsplash.com/photo-1671726805768-575f88de945a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+    }, {
+        "id": 128,
+        "category": "animal welfare",
+        "title": "Moose meat is clutch.",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee",
+        "img": "https://images.unsplash.com/photo-1673269595891-b92b2fa6edd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+    }
+    ],
+
+}
