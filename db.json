@@ -1,11 +1,41 @@
 {
-    "posts": [
+    "events": [
     {
-        "id":1,
-        "title":"hello",
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Find your new feline companion!",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+    }, {
+        "id": 124,
+        "category": "animal welfare",
+        "title": "I love cats cause they rock nuts",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 18, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+    }, {
+        "id": 125,
+        "category": "animal welfare",
+        "title": "Eating cats and dogs is not cool.",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+    }, {
+        "id": 126,
+        "category": "animal welfare",
+        "title": "Moose meat is clutch.",
+        "description": "We love cats period.",
+        "location":  "Meow Town",
+        "date": "January, 8, 2023",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
     }
-    ],
-    "profile": {
-        "name": "typicode",
-    }
+    ]
 }
