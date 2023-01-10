@@ -42,5 +42,18 @@
         "img": "https://images.unsplash.com/photo-1673269595891-b92b2fa6edd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
     }
     ],
+    "clients": [
+        {
+            "id": 123,
+            "category": "animal welfare",
+            "title": "Find your new feline companion!",
+            "description": "We love cats period.",
+            "location":  "Meow Town",
+            "date": "January, 8, 2023",
+            "time": "12:00",
+            "organizer": "Kat Laydee",
+            "img": "https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+        }
+    ]
 
 }
