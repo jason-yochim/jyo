@@ -46,8 +46,7 @@
         {
             "id": 123,
             "category": "active",
-            "description": "This is the description of the client."
-            "staff": ['mike', 'anne'],
+            "description": "This is the description of the client.",
             "location": "Party Central Brah",
             "date": "January, 18, 2023",
             "time": "12:00",
