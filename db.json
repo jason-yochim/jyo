@@ -73,5 +73,41 @@
             "time": "12:00",
             "owner": "Tom"
           }
+      ],
+
+      "slides": [
+        {
+          "id": 213121,
+          "url": "https://images.unsplash.com/photo-1574068468668-a05a11f871da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1254&q=80",
+          "client": "T2UE",
+          "title": "Something here?",
+          "description": "Find your new feline friend at this event.",
+          "location": "Toronto",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "owner": "Anne Spurgeon"
+        },
+        {
+            "id": 22121,
+            "url": "https://images.unsplash.com/photo-1574068468668-a05a11f871da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1254&q=80",
+            "client": "T2UE",
+            "title": "Something here?",
+            "description": "Find your new feline friend at this event.",
+            "location": "Toronto",
+            "date": "January 28, 2022",
+            "time": "12:00",
+            "owner": "Anne Spurgeon"
+          },
+          {
+            "id": 3312123,
+            "url": "https://images.unsplash.com/photo-1574068468668-a05a11f871da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1254&q=80",
+            "client": "T2UE",
+            "title": "Something here?",
+            "description": "Find your new feline friend at this event.",
+            "location": "Toronto",
+            "date": "January 28, 2022",
+            "time": "12:00",
+            "owner": "Anne Spurgeon"
+          }
       ]
   }
